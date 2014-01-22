@@ -1,4 +1,4 @@
-HeterogeneityMixingScales
+PlosCompBio_2013
 ================
 
 This repository contains code for generating Figures 2-5 and Table 1 from the following paper.
