@@ -19,7 +19,7 @@ Within the folder ./fig34/, first execute `source('runPhylogram.R')` in **R** an
 
 ### Figure 5
 
-Within the folder ./fig5/, first execture `source('runInfectionsOverTime.R')` in **R** and then `source('figInfectionsOverTime.R')` to produce ./fig5/output/fig5.pdf.
+Within the folder ./fig5/, first execute `source('runInfectionsOverTime.R')` in **R** and then `source('figInfectionsOverTime.R')` to produce ./fig5/output/fig5.pdf.
 
 ### Table 1
 
